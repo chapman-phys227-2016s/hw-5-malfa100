@@ -2,7 +2,7 @@
 
 **Author:** Andrew Malfavon
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-malfa100.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-malfa100.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-malfa100)
 
 **Due date:** 2016/03/08
 
