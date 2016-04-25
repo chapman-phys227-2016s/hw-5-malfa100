@@ -8,7 +8,7 @@
 
 ## Specification
 
-**Hints:** You can import and use results from the classwork.  Vectorize computations as much as possible.  For tests involving plots, use your Jupyter notebook instead of the nosetests framework.
+**Hints:** You can impor and use results from the classwork.  Vectorize computations as much as possible.  For tests involving plots, use your Jupyter notebook instead of the nosetests framework.
 
 Complete the following exercises from the primary textbook, placing your solutions into separate files. In each file, write the solution as a callable function, so that you can write suitable test functions that demonstrate correct output using the nose framework. GitHub will automatically run your tests on every commit, indicating any failures via the Travis framework with build status above.
 
